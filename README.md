@@ -1,5 +1,5 @@
 ##Controls
-	w,s increase the spedd
+	w,s increase the speed
 	left and right arrows to move the striker
 	r to reset the game
 	ENTER to proceed to next while shooting striker
